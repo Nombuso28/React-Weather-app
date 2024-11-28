@@ -53,13 +53,6 @@ function App() {
         ) : (
           ""
         )}
-        <p>
-          This project was coded by
-          <a href="#" target="_blank">Nombuso Ntsele</a> and is
-          <a href="https://github.com/Nombuso28" target="_blank"> on GitHub</a> and
-          <a href="#" target="_blank">hosted on Netlify
-        </a>
-        </p>
       </header>
     </div>
   );
