@@ -53,6 +53,27 @@ function App() {
         ) : (
           ""
         )}
+        <p className="Footer">
+        This page was coded by{" "}
+        <a href="https://github.com/nombusontsele" target="blank">
+          Nombuso Ntsele
+        </a>
+        . It is available on{" "}
+        <a
+          href="https://github.com/Nombuso28/react-weather-app"
+          target="blank"
+        >
+          GitHub{" "}
+        </a>
+        and is hosted by{" "}
+        <a
+          href="https://react-weather-forecaster-pro.netlify.app/"
+          target="blank"
+        >
+          Netlify
+        </a>
+        .
+      </p>
       </header>
     </div>
   );
